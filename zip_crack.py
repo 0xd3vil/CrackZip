@@ -35,7 +35,7 @@ def main():
 
         print '\t\t\t ######################################'
         print '\t\t\t ##                                  ##'
-        print '\t\t\t ##      Author : thevivekkryadav    ##'
+        print '\t\t\t ##      Author : 0xyadav            ##'
         print '\t\t\t ##        Version : V0.1            ##'
         print '\t\t\t ##                                  ##'
         print '\t\t\t ######################################'
