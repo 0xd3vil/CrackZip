@@ -5,6 +5,6 @@ This script will crack password protected ZIP files through Bruteforce.
 
 Steps to use:  python crackzip -f  target zip file -d  Dictionary list 
 
-You can download Dictionary list from google <simply search on google : download password Dictionary List>
+You can download Dictionary list from google simply search on google : download password Dictionary List
 
 
