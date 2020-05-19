@@ -1,7 +1,7 @@
 CrackZip
 ============
 
-This script will crack a password protected ZIP files through Bruteforce.
+This script will crack password protected ZIP files through Bruteforce.
 
 Steps to use:  python crackzip -f  target zip file -d  Dictionary list 
 
