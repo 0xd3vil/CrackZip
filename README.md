@@ -1,10 +1,10 @@
-CrackZipFile
+CrackZip
 ============
 
-This script will crack a password protected ZIP files through Brute force attack.
+This script will crack a password protected ZIP files through Bruteforce.
 
-How to use :  python zip_crack -f  target zip file -d  dicctionary list 
+Steps to use:  python crackzip -f  target zip file -d  Dictionary list 
 
-Download dictionary list from google <simply search on google : download password distionary List>
+You can download Dictionary list from google <simply search on google : download password Dictionary List>
 
 
